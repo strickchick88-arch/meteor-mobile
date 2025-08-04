@@ -2,7 +2,7 @@
 Android port of https://github.com/MeteorLite/meteor-client
   
 Current features:  
-  
+#1  rebug hovering in treaty
 Full desktop Meteor injection
 Full AWT software rendering (50 fps unless your resolution is absurd)  
 Logging in / interactions
@@ -31,3 +31,4 @@ Finally, Run `Run Meteor Mobile`
 ## Contributing  
   
 Please do.
+ 
